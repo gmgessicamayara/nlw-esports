@@ -1,5 +1,5 @@
 ## Tecnologias
-
+- Node
 - Vite
 - React
 - Typescript
